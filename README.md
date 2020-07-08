@@ -1,4 +1,4 @@
-# Injection_of_dependencies_by_spring
+# Injection_of_dependencies_by_spring -> Annotation
 
 Le principe de l'injection de dependance ou inversison de controle est de diminuer le couplage fort afin de fermer l'application à la modification et de l'ouvrir à l'extention.
 
